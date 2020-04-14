@@ -8,7 +8,7 @@ This project's aim is to provide greeting phrases to any website or platform tha
 ## Features
   - provides formal and informal greetings in many languages.
   - provides morning, afternoon and night greetings in many languages.
-  - provides random cool 'How are you ?' questions.
+  - provides random 'How are you ?' questions.
   - outputs logs.
   - jquery support, you can immediately set text inside html elements using Jquery selectors.
   

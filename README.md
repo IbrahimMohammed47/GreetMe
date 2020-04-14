@@ -32,8 +32,3 @@ This project's aim is to provide greeting phrases to any website or platform tha
   - German 
   - Arabic
   
-### Author: Ibrahim Muhammed
-
-
-
-### I hope you like GreetMe, HAVE FUN :)

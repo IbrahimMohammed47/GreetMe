@@ -1,5 +1,5 @@
 # GreetMe
-GreetMe.js is a Javascript library that provides different greetings in different languages with other features.
+GreetMe.js is a simple Javascript library that provides different greetings in different languages with other features.
 This library is built on JS prototype-based programming concepts, it also contains some of good practices and tricks in JS.
 
 ## Aim
